@@ -6,9 +6,6 @@ Este repositorio contiene scripts utilizados en un entorno de laboratorio SOC co
 
 ### `/scripts/`
 - `simular_ataques_web01.sh`: Simula ataques de red y de sistema comunes.
-- `install_wazuh_module.sh`: Instala manualmente el módulo Wazuh para Filebeat.
-- `reset_dashboard_passwords.sh`: Recupera o cambia contraseñas del dashboard Kibana/Wazuh.
-- `change_admin_password_wazuh_api.sh`: Cambia la contraseña del usuario 'admin' usando la API de Wazuh.
 
 ## 🚀 Uso rápido
 
