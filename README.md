@@ -14,6 +14,13 @@ chmod +x script.sh
 sudo ./script.sh
 ```
 
+💾 Máquinas virtuales
+
+Puedes descargar las máquinas virtuales utilizadas en este laboratorio desde el siguiente enlace:
+
+🔗 https://drive.google.com/drive/folders/1rVZJPG3216uA31Y2HzU4e5ucZVxv57_4?usp=sharing
+Incluye Wazuh Manager y web01 listos para pruebas.
+
 ## 🛠 Requisitos
 
 - Ubuntu Server 22.04
